@@ -1,0 +1,288 @@
+[04:53:39] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[04:53:39] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[04:53:39] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:53:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[04:53:40] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[04:53:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:53:48] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[04:53:48] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[04:53:49] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8682ms.
+[04:53:49] [ServerMain/INFO]: No existing world data, creating new world
+[04:53:50] [ServerMain/INFO]: Loaded 1461 recipes
+[04:53:50] [ServerMain/INFO]: Loaded 1574 advancements
+[04:53:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[04:53:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 481.6ms
+[04:53:51] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:53:51] [Server thread/INFO]: Loading properties
+[04:53:51] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[04:53:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:53:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:53:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:53:52] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:53:52] [Server thread/INFO]: Default game type: SURVIVAL
+[04:53:52] [Server thread/INFO]: Generating keypair
+[04:53:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:53:52] [Server thread/INFO]: Using epoll channel type
+[04:53:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:53:52] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[04:53:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:53:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:53:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:53:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:53:52] [Server thread/INFO]: Preparing level "world"
+[04:53:53] [Server thread/INFO]: Selecting spawn point for world 'minecraft:overworld'...
+[04:54:02] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_nether'...
+[04:54:03] [Server thread/INFO]: Selecting spawn point for world 'minecraft:the_end'...
+[04:54:03] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[04:54:03] [Server thread/INFO]: Preparing spawn area: 100%
+[04:54:03] [Server thread/INFO]: Prepared spawn area in 10887 ms
+[04:54:03] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[04:54:03] [Server thread/INFO]: Preparing spawn area: 100%
+[04:54:03] [Server thread/INFO]: Prepared spawn area in 1736 ms
+[04:54:03] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[04:54:03] [Server thread/INFO]: Preparing spawn area: 100%
+[04:54:03] [Server thread/INFO]: Prepared spawn area in 428 ms
+[04:54:03] [Server thread/INFO]: Done preparing level "world" (11.178s)
+[04:54:04] [Server thread/INFO]: [spark] Starting background profiler...
+[04:54:04] [Server thread/INFO]: Running delayed init tasks
+[04:54:04] [Server thread/INFO]: Done (26.295s)! For help, type "help"
+[04:57:20] [User Authenticator #0/INFO]: UUID of player Nick_iki1 is fa938e27-153f-3d59-a305-6898c140dd06
+[04:57:27] [Server thread/INFO]: Nick_iki1 joined the game
+[04:57:27] [Server thread/INFO]: Nick_iki1[/127.154.197.122:36477] logged in with entity id 111 at ([world]-3.5, 93.0, 48.5)
+[04:57:35] [User Authenticator #0/INFO]: UUID of player lilo229 is 6619b0dd-4bcd-3839-a5ee-9c9c88cabdc2
+[04:57:39] [Server thread/INFO]: lilo229 joined the game
+[04:57:39] [Server thread/INFO]: lilo229[/127.231.14.130:51795] logged in with entity id 343 at ([world]-0.5, 92.0, 40.5)
+[04:57:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Nick_iki1> genial no hay arboles
+[04:58:03] [Async Chat Thread - #0/INFO]: [Not Secure] <lilo229> pido esos
+[04:58:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Nick_iki1> ya encontre
+[04:59:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> NOO UN NEGRO Y UNA BLANCA TUVIERON HIJOS
+[05:00:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> Y SALIERON DOS
+[05:00:07] [Async Chat Thread - #2/INFO]: [Not Secure] <lilo229> XD?
+[05:00:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> UNO NEGRO Y UNO BLANCO
+[05:00:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> SE VE ERMOZO
+[05:00:26] [Async Chat Thread - #2/INFO]: [Not Secure] <lilo229> de que vergas hablas XXD
+[05:00:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> LAS OVEJAS
+[05:00:29] [Server thread/INFO]: lilo229 has made the advancement [Stone Age]
+[05:00:31] [Async Chat Thread - #2/INFO]: [Not Secure] <lilo229> haaaa
+[05:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <lilo229> XD
+[05:00:44] [Server thread/INFO]: lilo229 has made the advancement [Getting an Upgrade]
+[05:00:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Nick_iki1> ya tengo cama
+[05:01:00] [Async Chat Thread - #2/INFO]: [Not Secure] <lilo229> ya tengo hierro
+[05:01:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Nick_iki1> comida
+[05:01:20] [Async Chat Thread - #3/INFO]: [Not Secure] <lilo229> carbon
+[05:01:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Nick_iki1> POLLO MUAJAJ
+[05:01:38] [Async Chat Thread - #3/INFO]: [Not Secure] <lilo229> me traer comidita?
+[05:01:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Nick_iki1> Ns donde estas
+[05:02:01] [Async Chat Thread - #3/INFO]: [Not Secure] <lilo229> mira la barra de xp
+[05:02:04] [Async Chat Thread - #3/INFO]: [Not Secure] <lilo229> ahi te marca mi punto
+[05:02:15] [Server thread/INFO]: Nick_iki1 has made the advancement [Stone Age]
+[05:02:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Nick_iki1> me olvidaba
+[05:03:13] [Server thread/INFO]: lilo229 has made the advancement [Monster Hunter]
+[05:03:38] [Async Chat Thread - #4/INFO]: [Not Secure] <lilo229> comidaaaaaaaaaaaaa
+[05:03:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Nick_iki1> veni tuu
+[05:04:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Nick_iki1> es que la estoy cocinando
+[05:04:08] [Async Chat Thread - #4/INFO]: [Not Secure] <lilo229> me estoy matanado con biuchos en una putra cuieba
+[05:04:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Nick_iki1> te mamaste
+[05:05:27] [Async Chat Thread - #6/INFO]: [Not Secure] <lilo229> AYUDAAAAAAAAAAAAAAAAAA
+[05:05:31] [Server thread/INFO]: Nick_iki1 has made the advancement [Getting an Upgrade]
+[05:05:31] [Server thread/INFO]: lilo229 has made the advancement [Acquire Hardware]
+[05:05:57] [Server thread/INFO]: lilo229 has made the advancement [Isn't It Iron Pick]
+[05:06:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Nick_iki1> ya vaa
+[05:07:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> donde estas
+[05:07:29] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> BUSCA MI PUNTO
+[05:07:33] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> UN HUECO EN EL SUELO
+[05:07:37] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> *llora
+[05:07:44] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> que busque a tu putaaa?}
+[05:07:57] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> lee bien pendeja
+[05:08:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> xd
+[05:08:18] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> ciega de m
+[05:08:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> el hueco tiene agua?
+[05:08:55] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> samanta
+[05:09:00] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> ven a mi punto del xp
+[05:09:04] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> estas enb puta mierda
+[05:09:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> por eso
+[05:09:21] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> veeeeeeeeeen
+[05:10:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> es que me sales aqui
+[05:10:12] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> samanta
+[05:10:20] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> tas en en puta mierda
+[05:10:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> te metiste en un hueco?
+[05:10:26] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> el punto esta diminuto
+[05:10:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> WEBON TU ESTAS EN UNA CUEVA
+[05:10:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> el tuyo es grande
+[05:10:44] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> y tu a 20 k mtros
+[05:11:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> ñi esto al lado del spawn
+[05:11:08] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> ya casi llegas
+[05:11:15] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> se alejo
+[05:12:02] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> ya casi
+[05:12:24] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> llegaste
+[05:13:00] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> que se hizo
+[05:13:01] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> sunga
+[05:13:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> que veo?
+[05:13:11] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> que donde estas
+[05:13:27] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> vi fuego
+[05:13:28] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> ME SPAWNEARON EN LA CARA
+[05:13:53] [Server thread/INFO]: Nick_iki1 issued server command: /ola
+[05:13:56] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> ola
+[05:13:59] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> hello
+[05:14:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> vea
+[05:14:05] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> xcomifdaaaaa
+[05:14:06] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> tenga
+[05:14:22] [Server thread/INFO]: Nick_iki1 issued server command: /y tenga
+[05:14:27] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> y tenga
+[05:14:36] [Async Chat Thread - #8/INFO]: [Not Secure] <lilo229> thaks
+[05:14:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Nick_iki1> ajam
+[05:19:50] [Server thread/INFO]: Nick_iki1 has made the advancement [Monster Hunter]
+[05:21:48] [Server thread/INFO]: Nick_iki1 has made the advancement [Acquire Hardware]
+[05:26:00] [Server thread/INFO]: lilo229 has made the advancement [Suit Up]
+[05:28:27] [Server thread/INFO]: lilo229 has made the advancement [Diamonds!]
+[05:28:53] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> ta dah
+[05:29:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> ?
+[05:29:11] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> diamantes
+[05:29:36] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> tu consigue comida y has una casa
+[05:29:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> POR?
+[05:29:45] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> yo llevo hierro oro y diamantes
+[05:29:48] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> te parece?
+[05:29:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> no
+[05:29:55] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> por?
+[05:30:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> porque yo quiero conseguir eso .v
+[05:30:12] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> vcienes y me ayudas?
+[05:30:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> VERGA
+[05:30:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Nick_iki1> ME CAI A UN HUECO
+[05:30:32] [Async Chat Thread - #10/INFO]: [Not Secure] <lilo229> XD
+[05:31:33] [Async Chat Thread - #12/INFO]: [Not Secure] <lilo229> guarden
+[05:31:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Nick_iki1> nicee
+[05:32:34] [Server thread/INFO]: Nick_iki1 has made the advancement [Not Today, Thank You]
+[05:32:46] [Async Chat Thread - #14/INFO]: [Not Secure] <lilo229> ese logro me cuesta tanto sacarlo
+[05:32:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Nick_iki1> cual
+[05:32:58] [Async Chat Thread - #14/INFO]: [Not Secure] <lilo229> hoy no, gracias
+[05:33:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Nick_iki1> por?
+[05:33:17] [Async Chat Thread - #14/INFO]: [Not Secure] <lilo229> nunca uso escudo XD
+[05:33:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Nick_iki1> ps por eso nmms
+[05:33:48] [Async Chat Thread - #14/INFO]: [Not Secure] <lilo229> por eso XD
+[05:34:17] [Server thread/INFO]: lilo229 has made the advancement [Cover Me with Diamonds]
+[05:35:25] [Server thread/INFO]: lilo229 has completed the challenge [It Spreads]
+[05:36:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Nick_iki1> esto es mucho hueco
+[05:36:31] [Async Chat Thread - #16/INFO]: [Not Secure] <lilo229> XD
+[05:36:41] [Async Chat Thread - #16/INFO]: [Not Secure] <lilo229> creo que estamos en la misma mina XD
+[05:36:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Nick_iki1> encuentro mas en una cueva pequeña que en esta polquelia
+[05:37:00] [Async Chat Thread - #17/INFO]: [Not Secure] <lilo229> creo que si es la mia
+[05:37:03] [Async Chat Thread - #17/INFO]: [Not Secure] <lilo229> intenta bajar
+[05:37:06] [Async Chat Thread - #17/INFO]: [Not Secure] <lilo229> entre mas abajo mas cosas
+[05:38:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Nick_iki1> me salio en toda la cara
+[05:38:56] [Async Chat Thread - #18/INFO]: [Not Secure] <lilo229> que cosa
+[05:39:01] [Async Chat Thread - #18/INFO]: [Not Secure] <Nick_iki1> un creeper
+[05:39:07] [Async Chat Thread - #18/INFO]: [Not Secure] <lilo229> son asi
+[05:39:25] [Async Chat Thread - #18/INFO]: [Not Secure] <Nick_iki1> esas cosas si dan miedo
+[05:39:25] [Async Chat Thread - #18/INFO]: [Not Secure] <lilo229> eso me emputa de el sistema de spawn
+[05:40:26] [Async Chat Thread - #20/INFO]: [Not Secure] <Nick_iki1> creo que haye spawn
+[05:40:31] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> de?
+[05:40:36] [Async Chat Thread - #20/INFO]: [Not Secure] <Nick_iki1> zombies
+[05:40:39] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> nice
+[05:40:43] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> manda coords
+[05:40:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Nick_iki1> a ver 14 30 -321
+[05:41:06] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> nice
+[05:41:58] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> zanahoria
+[05:42:33] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> 3 menas de diamantes
+[05:42:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Nick_iki1> a ver
+[05:43:23] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> listo
+[05:43:26] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> me sobra el diamante
+[05:43:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Nick_iki1> tengo 3 armaduras de caballo XD
+[05:44:00] [Async Chat Thread - #20/INFO]: [Not Secure] <lilo229> guardame 1
+[05:47:41] [Server thread/INFO]: Nick_iki1 has made the advancement [Take Aim]
+[05:51:55] [Server thread/INFO]: Nick_iki1 was slain by Zombie
+[05:52:01] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> puto chuquii
+[05:52:05] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> toma tu independencia
+[05:52:15] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> que?
+[05:52:22] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> por querer ir por ahi sola
+[05:52:27] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> y?
+[05:52:32] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> por eso te matan
+[05:52:33] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> que tienes es normal
+[05:52:37] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> no
+[05:52:42] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> no cuando eres noob
+[05:53:04] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> no soy noob
+[05:53:09] [Server thread/INFO]: Nick_iki1 was blown up by Creeper
+[05:53:14] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> y tampoco fue en una cueva
+[05:53:15] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> y otra vez
+[05:53:16] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> XD
+[05:53:21] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> por escribirte :v
+[05:53:24] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> ay aja
+[05:53:39] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> pues si estamos en medio de la nochee
+[05:53:48] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> tienes cama
+[05:53:57] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> tu no duermes
+[05:54:00] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> tu no me dices
+[05:54:48] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> como siempre te quejas
+[05:54:58] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> cuando=
+[05:55:07] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> siempre xd
+[05:55:15] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> yo me quejo de que jamas quieres ayuda mia
+[05:55:34] [Server thread/INFO]: Nick_iki1 has made the advancement [Suit Up]
+[05:55:58] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> sali
+[05:56:03] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> nice
+[05:56:05] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> quieres diamantes?
+[05:56:11] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> aparte para que necesito ayuda? tu tuviste?
+[05:56:14] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> nah gracias
+[05:56:26] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> ves?
+[05:56:37] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> esque no lo necesito
+[05:56:45] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> ay aja
+[05:57:13] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> server
+[05:57:17] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> o lag?
+[05:57:22] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> ns me paso igual
+[05:57:31] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> server
+[05:57:34] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> bueno ya es hora de irme
+[05:57:48] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> noooooooooooo
+[05:58:05] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> *llora
+[05:58:31] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> no te vallas chavo
+[05:58:31] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> bue *se va por dos semanas*
+[05:58:34] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> cuidese
+[05:58:38] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> NOOOOOOOOOO
+[05:58:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> sigue mirando las flores quico...
+[05:58:58] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> sigue mirandolas
+[05:59:10] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> MARIHUANERA
+[05:59:34] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> ke
+[05:59:39] [Async Chat Thread - #22/INFO]: [Not Secure] <lilo229> MALA
+[06:00:07] [Async Chat Thread - #22/INFO]: [Not Secure] <Nick_iki1> bueno ya esta
+[06:00:10] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> chau
+[06:00:12] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> NOOOOOOOOOOOO
+[06:00:25] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> buenas noches
+[06:00:28] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> no
+[06:00:29] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> y que descanse
+[06:00:32] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> gracias
+[06:00:34] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> lo mismo
+[06:00:36] [Async Chat Thread - #23/INFO]: [Not Secure] <lilo229> te amo
+[06:00:39] [Async Chat Thread - #23/INFO]: [Not Secure] <Nick_iki1> nice
+[06:00:41] [Server thread/INFO]: Nick_iki1 lost connection: Disconnected
+[06:00:41] [Server thread/INFO]: Nick_iki1 left the game
+[06:01:41] [Server thread/INFO]: lilo229 lost connection: Disconnected
+[06:01:41] [Server thread/INFO]: lilo229 left the game
+[06:01:45] [Server thread/INFO]: Stopping the server
+[06:01:45] [Server thread/INFO]: Stopping server
+[06:01:45] [Server thread/INFO]: Saving players
+[06:01:45] [Server thread/INFO]: Saving worlds
+[06:01:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:01:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:01:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:01:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Saved 763 block chunks, 386 entity chunks, 1 poi chunks in world 'world' in 0.80s
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[06:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[06:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[06:01:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[06:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:01:46] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[06:01:46] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[06:01:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[06:01:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
